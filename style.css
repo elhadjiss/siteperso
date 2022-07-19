@@ -1,0 +1,70 @@
+ .page {
+    width: 780px;
+    margin: auto;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 14px;
+}
+
+.infophoto {
+    background-color: #ecf0f1;
+    height: 250px;
+    margin-bottom: 30px;
+}
+
+.photo {
+    float: left; 
+    background-color: white;
+    width: 150px;
+    height: 150px;
+    margin-top: 40px;
+    margin-left: 30px;
+}
+    
+.info {
+    float: right;
+    margin-right: 50px;
+    margin-top: 30px;
+
+} 
+
+.pro {
+    height: 150px;
+    width: 150px;
+    border-radius: 100px;
+
+}
+.section {
+    margin-bottom: 20px;
+    border-color: #ecf0f1;
+    border-style: solid;
+    
+}
+.sec-gauche {
+float:left ;
+margin-top: -17px;
+padding-left: 30px;
+font-size: 20px;
+}
+.sec-droite {
+    margin-left: 300px;
+    color: aqua;
+    font-size: 20px;
+}
+
+h2 {
+    background-color: #ecf0f1;
+    font-size: 30px;
+    padding: 15px;
+    margin-top: -2px;
+}
+
+.titre{
+    font-size: 25px;
+}
+.nom{
+    font-size: 30px;
+}
+.prof{
+    font-size: 15px;
+    margin-top: -20px;
+}
